@@ -1,0 +1,38 @@
+body {
+ margin: 0;
+ background: linear-gradient(90deg, rgba(255,255,255,0.5) 0%, rgba(255,255,255,0.5) 100%), url('gustavogoisadvogado.jpg');
+ background-size: cover;
+ background-position: relative;
+ text-align: center;
+ min-height: 100vh;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-around;
+ font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+    list-style:none;
+    font-size: 26px;
+    color: black;
+    text-align: center; 
+    text-transform: uppercase;
+    
+}
+
+li{
+    display: inline;
+    padding: 40px;
+}
+
+#logo-gustavo {
+    max-width: 730px;
+    margin: 0 auto;
+}
+
+p{
+    text-transform: uppercase;
+}
+
+
+
